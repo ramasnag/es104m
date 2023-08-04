@@ -21,15 +21,15 @@ By the end of this course, you will be able to:
 * Write simple programs in a **c** or **c++** programming language .
 * Understand the basic concepts of programming, such as variables, data types, control flow, and functions.
 * Apply programming concepts to solve problems.
-* Developing problem solving skills
+* Developing problem solving skills.
 
 |Introduction to Programming||
 |------|------|
-|Course number|ES103M|
+|Course number|ES104M|
 |Structure of credits | 2-0-3-4 |
 |Offered to | UG |
 |To be offered by | Department of Computer Science and Engineering|
-|To take effect from | Sept 2023|
+|To take effect from | Aug 2023|
 |Prerequisite | Nil|
 
 ## Syllabus
@@ -79,8 +79,12 @@ The grading breakdown for this course is as follows:
 
 If you have any questions or concerns regarding the course, feel free to contact the instructor:
 
-- Instructor: [Instructor Name](mailto:instructor@email.com)
-- TA's: [TA name1]() [TA name2 ]() [TA name3]() 
+- Instructor: [Dr Raghavendra K](mailto:raghavendra@iittp.ac.in)
+- Head TA: [Nagarajan R](nagarajan@iittp.ac.in)
+- Monday Batch TAs: [Tharakeswara Raji](cs19d503@iittp.ac.in)
+- Wednesday Batch TAs: [Aditi Palit](cs21d001@iittp.ac.in)
+- Thursday Batch TAs: [Sumukha Bharadwaj](cs21d003@iittp.ac.in)
+- Friday Batch TAs: [Suja J](sujavalan@iittp.ac.in)
 - Office Hours: [Office Hours Schedule](link-to-office-hours)
 
 We hope you have a great learning experience in this course!
