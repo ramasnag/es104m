@@ -1,10 +1,10 @@
 ---
-title: "ES103M_IITTP"
+title: "ES104M_IITTP"
 ---
 
 ![](https://www.iittp.ac.in/images/demo/iit/Other/logoupdated.png){width="30%"}
 
-#  ES103M   - Introduction to programming
+#  ES104M   - Introduction to programming
 
 Welcome to the *__Introduction to Programming__* course! If you've ever been intrigued by the digital world, curious about the magic behind software, or eager to solve problems through code, then this course is the perfect starting point for your journey into the fascinating realm of programming.    
 
