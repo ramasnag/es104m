@@ -80,8 +80,7 @@ The grading breakdown for this course is as follows:
 If you have any questions or concerns regarding the course, feel free to contact the instructor:
 
 - Instructor: [Instructor Name](mailto:instructor@email.com)
-- TA's: [TA name1]() [TA name2
-- ]() [TA name3]() 
+- TA's: [TA name1]() [TA name2 ]() [TA name3]() 
 - Office Hours: [Office Hours Schedule](link-to-office-hours)
 
 We hope you have a great learning experience in this course!
