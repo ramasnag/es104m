@@ -80,11 +80,11 @@ The grading breakdown for this course is as follows:
 If you have any questions or concerns regarding the course, feel free to contact the instructor:
 
 - Instructor: [Dr Raghavendra K](mailto:raghavendra@iittp.ac.in)
-- Head TA: [Nagarajan R](nagarajan@iittp.ac.in)
-- Monday Batch TAs: [Tharakeswara Raji](cs19d503@iittp.ac.in)
-- Wednesday Batch TAs: [Aditi Palit](cs21d001@iittp.ac.in)
-- Thursday Batch TAs: [Sumukha Bharadwaj](cs21d003@iittp.ac.in)
-- Friday Batch TAs: [Suja J](sujavalan@iittp.ac.in)
+- Head TA: [Nagarajan R](mailto:nagarajan@iittp.ac.in)
+- Monday Batch TAs: [Tharakeswara Raji](mailto:cs19d503@iittp.ac.in)
+- Wednesday Batch TAs: [Aditi Palit](mailto:cs21d001@iittp.ac.in)
+- Thursday Batch TAs: [Sumukha Bharadwaj](mailto:cs21d003@iittp.ac.in)
+- Friday Batch TAs: [Suja J](mailto:sujavalan@iittp.ac.in)
 - Office Hours: [Office Hours Schedule](link-to-office-hours)
 
 We hope you have a great learning experience in this course!
